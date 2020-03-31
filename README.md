@@ -1,5 +1,5 @@
 # 2019-2020GSSVirtualWorkshops
-This is the materials and videos of the 2019-2020 virtual workshops on Usage of Blended Data and Combining Alternative Source Data: Methods, Challenges, and Considerations in the Era of Big Data.
+This repository is the collection materials, including video recordings, of the 2019-2020 virtual workshops on Usage of Blended Data and Combining Alternative Source Data: Methods, Challenges, and Considerations in the Era of Big Data.
 
 Thursday, September 19, 2019 - 1:00 p.m. ET 
 Introduction to Big Data and Machine Learning for Survey Researchers - Trent Buskirk, Professor, Bowling Green State University
