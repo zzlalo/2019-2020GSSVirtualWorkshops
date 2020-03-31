@@ -17,5 +17,5 @@ Thursday Feb 13, 2020 - 12:00 p.m. ET
 Interpretability vs. Explainability in Machine Learning for High Stakes Decisions -  Cynthia Rudin, Associate Professor, Duke University
 
 Thursday Mar 12, 2020 - 1:00 p.m. ET
-Differential Privacy - Matthew Graham, Center for Economic Studies, U.S. Census Bureau
-[Materials](https://github.com/mwerevu/dpdemo)
+Differential Privacy - Matthew Graham, Center for Economic Studies, U.S. Census Bureau - 
+[Materials](https://github.com/mwerevu/dpdemo)- [Video Recording](https://www.dropbox.com/s/kdmc7blco5gokfn/March12Workshop-Data%20Privacy.mp4?dl=0)
