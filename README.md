@@ -11,7 +11,7 @@ Thursday, November 21, 2019 - 1:00 p.m. ET
 How Rare is Rare? The Importance of Validation - Aric LaBarr, Associate Professor, North Carolina State University's Institute for Advanced Analytics - [Video Recording](https://www.dropbox.com/s/m3plgc2r35f97tj/HowRareisRareNovember21Workshop.mp4?dl=0)
 
 Thursday, January 16, 2020 - 1:00 p.m. ET
-Introduction to Python for Data Science - Hunter Glanz, Assistant Professor, Department of Statistics, California Polytechnic State University
+Introduction to Python for Data Science - Hunter Glanz, Assistant Professor, Department of Statistics, California Polytechnic State University - [Materials](https://github.com/hglanz/ASA_GovtSection_PythonWorkshop2020)
 
 Thursday Feb 13, 2020 - 12:00 p.m. ET
 Interpretability vs. Explainability in Machine Learning for High Stakes Decisions -  Cynthia Rudin, Associate Professor, Duke University - [Video Recording](https://www.dropbox.com/s/0k17srmwcmkr95f/February13VirtualWorkshop-Rudin.mp4?dl=0)
