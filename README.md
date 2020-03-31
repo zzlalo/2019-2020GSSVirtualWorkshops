@@ -5,7 +5,7 @@ Thursday, September 19, 2019 - 1:00 p.m. ET
 Introduction to Big Data and Machine Learning for Survey Researchers - Trent Buskirk, Professor, Bowling Green State University
 
 Thursday, October 17, 2019 - 3:00 p.m. ET
-Overview - Frauke Kreuter, Director of Joint Program in Survey Methodology, University of Maryland
+Overview - Frauke Kreuter, Director of Joint Program in Survey Methodology, University of Maryland - [Video Recording](https://www.dropbox.com/s/smmmp2fdv1s4oza/BlendedDataOctober17Workshop.mp4?dl=0)
 
 Thursday, November 21, 2019 - 1:00 p.m. ET
 How Rare is Rare? The Importance of Validation - Aric LaBarr, Associate Professor, North Carolina State University's Institute for Advanced Analytics
