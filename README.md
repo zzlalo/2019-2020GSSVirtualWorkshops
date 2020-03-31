@@ -14,7 +14,7 @@ Thursday, January 16, 2020 - 1:00 p.m. ET
 Introduction to Python for Data Science - Hunter Glanz, Assistant Professor, Department of Statistics, California Polytechnic State University
 
 Thursday Feb 13, 2020 - 12:00 p.m. ET
-Interpretability vs. Explainability in Machine Learning for High Stakes Decisions -  Cynthia Rudin, Associate Professor, Duke University
+Interpretability vs. Explainability in Machine Learning for High Stakes Decisions -  Cynthia Rudin, Associate Professor, Duke University - [Video Recording](https://www.dropbox.com/s/0k17srmwcmkr95f/February13VirtualWorkshop-Rudin.mp4?dl=0)
 
 Thursday Mar 12, 2020 - 1:00 p.m. ET
 Differential Privacy - Matthew Graham, Center for Economic Studies, U.S. Census Bureau - 
