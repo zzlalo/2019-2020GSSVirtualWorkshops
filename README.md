@@ -2,7 +2,7 @@
 This repository is the collection materials, including video recordings, of the 2019-2020 virtual workshops on Usage of Blended Data and Combining Alternative Source Data: Methods, Challenges, and Considerations in the Era of Big Data.
 
 Thursday, September 19, 2019 - 1:00 p.m. ET 
-Introduction to Big Data and Machine Learning for Survey Researchers - Trent Buskirk, Professor, Bowling Green State University
+Introduction to Big Data and Machine Learning for Survey Researchers - Trent Buskirk, Professor, Bowling Green State University - [Video Recording](https://www.dropbox.com/s/hvk5ms8p7f55z7q/Sept13Webinar.mp4?dl=0)
 
 Thursday, October 17, 2019 - 3:00 p.m. ET
 Overview - Frauke Kreuter, Director of Joint Program in Survey Methodology, University of Maryland - [Video Recording](https://www.dropbox.com/s/smmmp2fdv1s4oza/BlendedDataOctober17Workshop.mp4?dl=0)
