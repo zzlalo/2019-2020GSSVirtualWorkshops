@@ -8,7 +8,7 @@ Thursday, October 17, 2019 - 3:00 p.m. ET
 Overview - Frauke Kreuter, Director of Joint Program in Survey Methodology, University of Maryland - [Video Recording](https://www.dropbox.com/s/smmmp2fdv1s4oza/BlendedDataOctober17Workshop.mp4?dl=0)
 
 Thursday, November 21, 2019 - 1:00 p.m. ET
-How Rare is Rare? The Importance of Validation - Aric LaBarr, Associate Professor, North Carolina State University's Institute for Advanced Analytics
+How Rare is Rare? The Importance of Validation - Aric LaBarr, Associate Professor, North Carolina State University's Institute for Advanced Analytics - {Video Recording](https://www.dropbox.com/s/m3plgc2r35f97tj/HowRareisRareNovember21Workshop.mp4?dl=0)
 
 Thursday, January 16, 2020 - 1:00 p.m. ET
 Introduction to Python for Data Science - Hunter Glanz, Assistant Professor, Department of Statistics, California Polytechnic State University
